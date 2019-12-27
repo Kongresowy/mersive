@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mersive/static/css/main.1d10729b.chunk.css",
+    "main.js": "/mersive/static/js/main.01239b72.chunk.js",
+    "main.js.map": "/mersive/static/js/main.01239b72.chunk.js.map",
+    "runtime-main.js": "/mersive/static/js/runtime-main.d686fd88.js",
+    "runtime-main.js.map": "/mersive/static/js/runtime-main.d686fd88.js.map",
+    "static/js/2.0376d261.chunk.js": "/mersive/static/js/2.0376d261.chunk.js",
+    "static/js/2.0376d261.chunk.js.map": "/mersive/static/js/2.0376d261.chunk.js.map",
+    "index.html": "/mersive/index.html",
+    "precache-manifest.1ea30f52008cbaa754ce37b2f04afc20.js": "/mersive/precache-manifest.1ea30f52008cbaa754ce37b2f04afc20.js",
+    "service-worker.js": "/mersive/service-worker.js",
+    "static/css/main.1d10729b.chunk.css.map": "/mersive/static/css/main.1d10729b.chunk.css.map",
+    "static/js/2.0376d261.chunk.js.LICENSE": "/mersive/static/js/2.0376d261.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d686fd88.js",
+    "static/js/2.0376d261.chunk.js",
+    "static/css/main.1d10729b.chunk.css",
+    "static/js/main.01239b72.chunk.js"
+  ]
+}
